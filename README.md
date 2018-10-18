@@ -2,8 +2,6 @@
 
 Collection of links that I will be building up over time.
 
-
-
 # JavaScript
 
 ## Primitive vs. Reference Values
@@ -18,6 +16,9 @@ Collection of links that I will be building up over time.
 
 * Async/Await vs. Promises: https://gist.github.com/matt-winzer/9e0433360d7fa115b2685072fef2a683
 
+## APIs
+
+* Status Codes: https://www.restapitutorial.com/httpstatuscodes.html
 
 
 # Computer Science
