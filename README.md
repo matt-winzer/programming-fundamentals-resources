@@ -42,3 +42,9 @@ Collection of links that I will be building up over time.
 # NPM
 
 * Slides: https://docs.google.com/presentation/d/1BuZR3vwPBOtj2I6kZZSYG73Rn-7XTsNHB7w5fMFBVQc/edit#slide=id.g23d471e05a_0_612
+
+# NVM - Node Version Manager
+
+* Overview: https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
+* Setting Default Version: https://eric.blog/2016/08/23/set-default-node-version-with-nvm/
+
