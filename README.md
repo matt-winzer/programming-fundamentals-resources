@@ -12,6 +12,10 @@ Collection of links that I will be building up over time.
 
 * http://www.javascripttutorial.net/javascript-closure/
 
+## ES6
+
+* Arrow Functions: https://hackernoon.com/getting-to-grips-with-es6-arrow-functions-ebfa62c5c5d6
+
 ## React
 
 * Async/Await vs. Promises: https://gist.github.com/matt-winzer/9e0433360d7fa115b2685072fef2a683
