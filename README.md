@@ -47,8 +47,16 @@ Collection of links that I will be building up over time.
 
 * Slides: https://docs.google.com/presentation/d/1BuZR3vwPBOtj2I6kZZSYG73Rn-7XTsNHB7w5fMFBVQc/edit#slide=id.g23d471e05a_0_612
 
+
 # NVM - Node Version Manager
 
 * Overview: https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
 * Setting Default Version: https://eric.blog/2016/08/23/set-default-node-version-with-nvm/
 
+
+# Agile
+
+## User Stories
+
+* [Writing User Stories: Examples & Templates](https://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/)
+* [10 Tips for Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/?doing_wp_cron=1543247610.4944980144500732421875)
