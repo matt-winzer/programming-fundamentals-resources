@@ -36,6 +36,7 @@ Collection of links that I will be building up over time.
 # Git/GitHub
 
 * Ignoring Files: https://help.github.com/articles/ignoring-files/
+* [Amending Commit Messages](https://help.github.com/articles/changing-a-commit-message/)
 
 
 # Interview Questions
