@@ -61,3 +61,10 @@ Collection of links that I will be building up over time.
 
 * [Writing User Stories: Examples & Templates](https://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/)
 * [10 Tips for Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/?doing_wp_cron=1543247610.4944980144500732421875)
+
+
+# PostgreSQL
+
+## Installation
+
+* [Uninstall & Reinstall](https://medium.com/@zowoodward/effectively-uninstall-and-reinstall-psql-with-homebrew-on-osx-fabbc45c5d9d)
